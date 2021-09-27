@@ -1,3 +1,3 @@
 # individual_project
 
-helloz world!
+hello world!
